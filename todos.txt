@@ -1,0 +1,5 @@
+jump
+skip
+buy
+sell
+build
